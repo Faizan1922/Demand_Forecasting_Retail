@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-pmdarima
-prophet
-tensorflow
-jupyter
